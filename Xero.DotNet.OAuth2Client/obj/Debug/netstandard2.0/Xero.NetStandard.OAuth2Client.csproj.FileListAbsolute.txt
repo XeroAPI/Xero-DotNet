@@ -1,0 +1,9 @@
+/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-NetStandard/Xero.NetStandard.OAuth2Client/bin/Debug/netstandard2.0/Xero.NetStandard.OAuth2Client.deps.json
+/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-NetStandard/Xero.NetStandard.OAuth2Client/bin/Debug/netstandard2.0/Xero.NetStandard.OAuth2Client.dll
+/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-NetStandard/Xero.NetStandard.OAuth2Client/bin/Debug/netstandard2.0/Xero.NetStandard.OAuth2Client.pdb
+/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-NetStandard/Xero.NetStandard.OAuth2Client/obj/Debug/netstandard2.0/Xero.NetStandard.OAuth2Client.csprojAssemblyReference.cache
+/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-NetStandard/Xero.NetStandard.OAuth2Client/obj/Debug/netstandard2.0/Xero.NetStandard.OAuth2Client.AssemblyInfoInputs.cache
+/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-NetStandard/Xero.NetStandard.OAuth2Client/obj/Debug/netstandard2.0/Xero.NetStandard.OAuth2Client.AssemblyInfo.cs
+/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-NetStandard/Xero.NetStandard.OAuth2Client/obj/Debug/netstandard2.0/Xero.NetStandard.OAuth2Client.csproj.CoreCompileInputs.cache
+/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-NetStandard/Xero.NetStandard.OAuth2Client/obj/Debug/netstandard2.0/Xero.NetStandard.OAuth2Client.dll
+/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-NetStandard/Xero.NetStandard.OAuth2Client/obj/Debug/netstandard2.0/Xero.NetStandard.OAuth2Client.pdb

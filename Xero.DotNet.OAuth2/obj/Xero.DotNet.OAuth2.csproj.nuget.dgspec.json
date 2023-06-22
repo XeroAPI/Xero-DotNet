@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-DotNet/Xero.DotNet.OAuth2/Xero.DotNet.OAuth2.csproj": {}
+  },
+  "projects": {
+    "/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-DotNet/Xero.DotNet.OAuth2/Xero.DotNet.OAuth2.csproj": {
+      "version": "0.0.1",
+      "restore": {
+        "projectUniqueName": "/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-DotNet/Xero.DotNet.OAuth2/Xero.DotNet.OAuth2.csproj",
+        "projectName": "Xero.DotNet.OAuth2",
+        "projectPath": "/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-DotNet/Xero.DotNet.OAuth2/Xero.DotNet.OAuth2.csproj",
+        "packagesPath": "/Users/brian.kim/.nuget/packages/",
+        "outputPath": "/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-DotNet/Xero.DotNet.OAuth2/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/brian.kim/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CompareNETObjects": {
+              "target": "Package",
+              "version": "[4.78.0, )"
+            },
+            "JsonSubTypes": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[108.0.3, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

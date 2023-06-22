@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-NetStandard/Xero.DotNet.OAuth2.Test/Xero.DotNet.OAuth2.Test.csproj": {}
+  },
+  "projects": {
+    "/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-NetStandard/Xero.DotNet.OAuth2.Test/Xero.DotNet.OAuth2.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-NetStandard/Xero.DotNet.OAuth2.Test/Xero.DotNet.OAuth2.Test.csproj",
+        "projectName": "Xero.DotNet.OAuth2.Test",
+        "projectPath": "/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-NetStandard/Xero.DotNet.OAuth2.Test/Xero.DotNet.OAuth2.Test.csproj",
+        "packagesPath": "/Users/brian.kim/.nuget/packages/",
+        "outputPath": "/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-NetStandard/Xero.DotNet.OAuth2.Test/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/brian.kim/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-NetStandard/Xero.NetStandard.OAuth2/Xero.DotNet.OAuth2.csproj": {
+                "projectPath": "/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-NetStandard/Xero.NetStandard.OAuth2/Xero.DotNet.OAuth2.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoBogus": {
+              "target": "Package",
+              "version": "[2.7.4, )"
+            },
+            "CompareNETObjects": {
+              "target": "Package",
+              "version": "[4.78.0, )"
+            },
+            "JsonSubTypes": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[108.0.3, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-NetStandard/Xero.NetStandard.OAuth2/Xero.DotNet.OAuth2.csproj": {
+      "version": "3.31.0",
+      "restore": {
+        "projectUniqueName": "/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-NetStandard/Xero.NetStandard.OAuth2/Xero.DotNet.OAuth2.csproj",
+        "projectName": "Xero.NetStandard.OAuth2",
+        "projectPath": "/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-NetStandard/Xero.NetStandard.OAuth2/Xero.DotNet.OAuth2.csproj",
+        "packagesPath": "/Users/brian.kim/.nuget/packages/",
+        "outputPath": "/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-NetStandard/Xero.NetStandard.OAuth2/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/brian.kim/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "CompareNETObjects": {
+              "target": "Package",
+              "version": "[4.78.0, )"
+            },
+            "JsonSubTypes": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[108.0.3, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

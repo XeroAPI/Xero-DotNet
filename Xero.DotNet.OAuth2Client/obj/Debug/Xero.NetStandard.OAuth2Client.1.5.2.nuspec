@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Xero.DotNet.OAuth2Client</id>
+    <version>0.0.1</version>
+    <authors>Xero</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/XeroAPI/Xero-DotNet/</licenseUrl>
+    <iconUrl>https://en.gravatar.com/userimage/180557955/74b3a957d886bc921b0d1455beed9dab.png</iconUrl>
+    <description>Package Description</description>
+    <copyright>Copyright © Xero 2023</copyright>
+    <tags>xero api sdk oauth2 oauth2.0</tags>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="IdentityModel" version="5.1.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.2" exclude="Build,Analyzers" />
+        <dependency id="System.IdentityModel.Tokens.Jwt" version="6.10.2" exclude="Build,Analyzers" />
+        <dependency id="System.Net.Http.Json" version="5.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-DotNet/Xero.DotNet.OAuth2Client/bin/Debug/DotNet/Xero.DotNet.OAuth2Client.dll" target="lib/DotNet/Xero.DotNet.OAuth2Client.dll" />
+  </files>
+</package>

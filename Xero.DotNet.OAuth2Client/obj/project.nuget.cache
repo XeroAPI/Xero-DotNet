@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "5aQ9+WtQzd2Kqnx1nc/6BSP1pJPPjgxAliKP+YLecQqz5G7ognpy8c2yF1YEw62cG4+d4ayOTDu7ObkvLpTpCw==",
+  "success": true,
+  "projectFilePath": "/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-DotNet/Xero.DotNet.OAuth2Client/Xero.DotNet.OAuth2Client.csproj",
+  "expectedPackageFiles": [
+    "/Users/brian.kim/.nuget/packages/identitymodel/5.1.0/identitymodel.5.1.0.nupkg.sha512",
+    "/Users/brian.kim/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/brian.kim/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.10.2/microsoft.identitymodel.jsonwebtokens.6.10.2.nupkg.sha512",
+    "/Users/brian.kim/.nuget/packages/microsoft.identitymodel.logging/6.10.2/microsoft.identitymodel.logging.6.10.2.nupkg.sha512",
+    "/Users/brian.kim/.nuget/packages/microsoft.identitymodel.tokens/6.10.2/microsoft.identitymodel.tokens.6.10.2.nupkg.sha512",
+    "/Users/brian.kim/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
+    "/Users/brian.kim/.nuget/packages/system.identitymodel.tokens.jwt/6.10.2/system.identitymodel.tokens.jwt.6.10.2.nupkg.sha512",
+    "/Users/brian.kim/.nuget/packages/system.net.http.json/5.0.0/system.net.http.json.5.0.0.nupkg.sha512",
+    "/Users/brian.kim/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "/Users/brian.kim/.nuget/packages/system.text.encodings.web/5.0.1/system.text.encodings.web.5.0.1.nupkg.sha512",
+    "/Users/brian.kim/.nuget/packages/system.text.json/5.0.1/system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-DotNet/Xero.DotNet.OAuth2/bin/Debug/net6.0/Xero.DotNet.OAuth2.deps.json
+/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-DotNet/Xero.DotNet.OAuth2/bin/Debug/net6.0/Xero.DotNet.OAuth2.dll
+/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-DotNet/Xero.DotNet.OAuth2/bin/Debug/net6.0/Xero.DotNet.OAuth2.pdb
+/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-DotNet/Xero.DotNet.OAuth2/obj/Debug/net6.0/Xero.DotNet.OAuth2.csproj.AssemblyReference.cache
+/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-DotNet/Xero.DotNet.OAuth2/obj/Debug/net6.0/Xero.DotNet.OAuth2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-DotNet/Xero.DotNet.OAuth2/obj/Debug/net6.0/Xero.DotNet.OAuth2.csproj.CoreCompileInputs.cache
+/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-DotNet/Xero.DotNet.OAuth2/obj/Debug/net6.0/Xero.DotNet.OAuth2.dll
+/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-DotNet/Xero.DotNet.OAuth2/obj/Debug/net6.0/refint/Xero.DotNet.OAuth2.dll
+/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-DotNet/Xero.DotNet.OAuth2/obj/Debug/net6.0/Xero.DotNet.OAuth2.pdb
+/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-DotNet/Xero.DotNet.OAuth2/obj/Debug/net6.0/ref/Xero.DotNet.OAuth2.dll

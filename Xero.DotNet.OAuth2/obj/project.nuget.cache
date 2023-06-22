@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tyBiQ2iJZJEeJeH7n4NW4f2maYo2GZ0Se6QrxH1wYWSdqp3rPAJ43m6mXhle1P+P5KFJ/jrsNpSQ88x6jlqZjw==",
+  "success": true,
+  "projectFilePath": "/Users/brian.kim/Documents/GitHub/code/SDKs/Xero-DotNet/Xero.DotNet.OAuth2/Xero.DotNet.OAuth2.csproj",
+  "expectedPackageFiles": [
+    "/Users/brian.kim/.nuget/packages/comparenetobjects/4.78.0/comparenetobjects.4.78.0.nupkg.sha512",
+    "/Users/brian.kim/.nuget/packages/jsonsubtypes/2.0.1/jsonsubtypes.2.0.1.nupkg.sha512",
+    "/Users/brian.kim/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/brian.kim/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
+    "/Users/brian.kim/.nuget/packages/restsharp/108.0.3/restsharp.108.0.3.nupkg.sha512",
+    "/Users/brian.kim/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
